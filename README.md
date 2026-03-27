@@ -1,4 +1,5 @@
 ## Basic Security Profile for MacOS
+
 This profile will:
 - Enable FileVault
 - Enable DNS-over-https with Cloudflare resolvers
